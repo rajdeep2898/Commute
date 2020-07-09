@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Commute</string>
+    <string name="create_account">Create Account</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT</string>
+    <string name="logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">myNotifications</string>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "903546761595",
+    "firebase_url": "https://commute-56e3b.firebaseio.com",
+    "project_id": "commute-56e3b",
+    "storage_bucket": "commute-56e3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903546761595:android:aafd07d832ab59f8",
+        "android_client_info": {
+          "package_name": "com.example.myapp2.commute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903546761595-8vogk2ackqsl1jqjd7pqlgoo83oe8p65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp2.commute",
+            "certificate_hash": "fb8693eeab0174ac280bdb95d8309c18cc180fee"
+          }
+        },
+        {
+          "client_id": "903546761595-8nmuuhes53j2tmvh7jgire64fvk65m1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp2.commute",
+            "certificate_hash": "1c872c9e700fcb9bc6a3d46273424346cb80dfb5"
+          }
+        },
+        {
+          "client_id": "903546761595-cti8q90nnv1pj19emvlontjsobv0ag63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTpTd_iMtB8xkQOVbX8WvzSoWbk3FrKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903546761595-cti8q90nnv1pj19emvlontjsobv0ag63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
